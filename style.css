@@ -1,0 +1,33 @@
+.container{
+    text-align: center;
+    margin-top: 30px;
+}
+table{
+    margin: auto;
+    
+
+}
+
+input{
+    font-size: 34px;
+    border: 2px solid palevioletred;
+    border-radius: 20px;
+}
+
+button{
+    font-size: 40px;
+    background-color: lightslategray;
+    height: 58px;
+    width: 102px;
+    border-radius: 20px;
+}
+.calculator{
+    background-color: blueviolet;
+    display: inline-block;
+    padding: 23px;
+    border-radius: 53px;
+    display: inline-block;
+}
+body{
+    background-image: url(https://images.pexels.com/photos/1269968/pexels-photo-1269968.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+}
