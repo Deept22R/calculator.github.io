@@ -7,7 +7,13 @@ table{
     
 
 }
-
+h1{
+    color: lightgreen;
+    font-size: 3rem;
+    font-weight: bold;
+    text-shadow: 4px 4px 4px blue;
+    font-family: cursive;
+}
 input{
     font-size: 34px;
     border: 2px solid palevioletred;
@@ -22,12 +28,12 @@ button{
     border-radius: 20px;
 }
 .calculator{
-    background-color: blueviolet;
+    background-color: lightsteelblue;
     display: inline-block;
     padding: 23px;
     border-radius: 53px;
     display: inline-block;
 }
 body{
-    background-image: url(https://images.pexels.com/photos/1269968/pexels-photo-1269968.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    background-image: url(https://i.pinimg.com/originals/81/6d/fd/816dfd710806e20aa40a7cd8c76d2e2d.jpg);
 }
